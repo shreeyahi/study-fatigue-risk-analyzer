@@ -6,7 +6,7 @@ I built this project out of pure curiosity.
 
 I wanted to see what a project like this would actually turn into if I tried to model something from my own life instead of abstract data or benchmarks. School gets intense, routines aren’t always consistent, and I was curious whether patterns in things like sleep, study time, stress, and energy could be learned in a meaningful way.
 
-This wasn’t about “fixing” anything or making big claims — I just wanted to explore how AI could be used as a tool to reflect on habits rather than judge them.
+This wasn’t about “fixing” anything or making big claims. I just wanted to explore how AI could be used as a tool to reflect on habits rather than judge them.
 
 ---
 
@@ -36,7 +36,7 @@ It’s a small decision-support system designed to help reflect on routines.
 3. Evaluate performance using held-out data
 4. Use the trained model to estimate next-day fatigue from new inputs
 
-The goal is not maximum accuracy — it’s understanding patterns and uncertainty.
+The goal is not maximum accuracy, it’s solely about understanding patterns and uncertainty.
 
 ---
 
@@ -62,7 +62,7 @@ This project taught me a few important things about AI:
 - Simple models can still be useful when applied thoughtfully  
 - Even small projects benefit from being honest about limitations  
 
-Interestingly, just thinking through the features and outputs helped me reflect on my own routine and make small improvements — which wasn’t something I expected going in.
+Interestingly, just thinking through the features and outputs helped me reflect on my own routine and make small improvements, which wasn’t something I expected going in.
 
 ---
 
@@ -87,7 +87,7 @@ The implementation, structure, and decisions were my own.
 - Assumes independence between days
 - No long-term temporal modeling yet
 
-These limitations are intentional and acknowledged — this project is exploratory, not final.
+These limitations are intentional and acknowledged, this project is exploratory, not final.
 
 ---
 
@@ -104,4 +104,4 @@ These limitations are intentional and acknowledged — this project is explorato
 
 This project isn’t about predicting burnout or optimizing productivity.
 
-It’s about using AI responsibly — as a way to explore patterns, reflect on habits, and support better decision-making without removing human judgment.
+It’s about using AI responsibly, as a way to explore patterns, reflect on habits, and support better decision-making without removing human judgment.
